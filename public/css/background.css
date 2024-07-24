@@ -1,0 +1,11 @@
+/*整体背景，渐变色设置*/
+body{
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    #background: #FFEFBA;
+    #background: -webkit-linear-gradient(to right, #FFFFFF, #FFEFBA);
+    #background: linear-gradient(to right, #FFFFFF, #FFEFBA);
+    background: #2BC0E4;
+    background: -webkit-linear-gradient(to right, #EAECC6, #2BC0E4);
+    background: linear-gradient(293deg,#43c6ac,#f8ffae);
+}
+
